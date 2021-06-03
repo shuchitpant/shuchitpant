@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500">
 
 # Web Developer, UI designer and a Constant Learner.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
