@@ -4,7 +4,7 @@ I am a Computer Science Engineering Undergrad student at Manipal University Jaip
 
 If you want to have a chat about my other ventures or any project ideas, feel free to message.[Linkedin](https://www.linkedin.com/in/shuchit-pant-948a0b190/)
 
-##Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m contantly trying to improve my concepts of Data Structures.
 - 🌱 I’m currently learning how to integrate the backend - frontend connection in a web app (MERN Stack).
