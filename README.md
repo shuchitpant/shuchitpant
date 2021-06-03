@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="700">
 
 # Web Developer, UI designer and a Constant Learner.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
@@ -21,5 +21,5 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchitpant&label=Profile Views&color=blue&style=plastic" alt="shuchitpant" /> </p>
 
 <a href="https://github.com/shuchitpant">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuchitpant&show_icons=true&theme=cobalt&line_height=27" alt="Shuchit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuchitpant&show_icons=true&theme=onedark&line_height=27" alt="Shuchit's github stats"/>
 </a>
