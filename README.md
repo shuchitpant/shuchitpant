@@ -25,4 +25,3 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 </a>
 
 
-![Shuchit's wakatime stats](https://github-readme-stats-shuchitpant.vercel.app/api/wakatime?username=shuchitpant&layout=compact)
