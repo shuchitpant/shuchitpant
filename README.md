@@ -1,6 +1,8 @@
-# About 
+# I'm a Frontend Web Developer, UI designer and a Constant Learner.
 
 I am a Computer Science Engineering Undergrad student at Manipal University Jaipur, currently exploring into the vast world of Software Development, especially Web Development. I hope to venture much deeper into this ocean of never-ending innovation and opportunities.
+
+I am looking for internships and research projects in the field of Computer science and engineering.
 
 If you want to have a chat about my other ventures or any project ideas, feel free to message.[Linkedin](https://www.linkedin.com/in/shuchit-pant-948a0b190/)
 
@@ -13,3 +15,8 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 - 💬 Ask me about the Frontend design and Code.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shuchit-pant-948a0b190/)
 - ⚡ Fun fact: I love playing Flamenco music and listening to Math rock
+
+
+<a href="https://github.com/shuchitpant">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuchitpant&show_icons=true&theme=dracula&line_height=27" alt="Shuchit's github stats"/>
+</a>
