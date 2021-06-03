@@ -1,4 +1,4 @@
-# I'm a Frontend Web Developer, UI designer and a Constant Learner.
+# I'm a Frontend Web Developer, UI designer and a Constant Learner.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
 I am a Computer Science Engineering Undergrad student at Manipal University Jaipur, currently exploring into the vast world of Software Development, especially Web Development. I hope to venture much deeper into this ocean of never-ending innovation and opportunities.
 
