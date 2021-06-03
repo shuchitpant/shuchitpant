@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Sophomore Computer Science Engineering student at Manipal University Jaipur, currently exploring into the vast world of Software Development, especially the world of Data Science and Web Development. I hope to venture much deeper into this ocean of never-ending innovation and opportunities.
+
+If you want to have a chat about my other ventures or any project ideas, feel free to message.
+
+P.S. - My hobbies include playing the guitar,reading and photography.
 <!--
 **shuchitpant/shuchitpant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
