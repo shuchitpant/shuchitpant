@@ -1,4 +1,4 @@
-<p  align="left"><img src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/836HiJc7pgzy8iNXCn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">via GIPHY</a></p>
 
 # Web Developer, UI designer and a Constant Learner.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
