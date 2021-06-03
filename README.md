@@ -1,4 +1,4 @@
-### Hi there 👋
+# About 
 
 I am a Computer Science Engineering Undergrad student at Manipal University Jaipur, currently exploring into the vast world of Software Development, especially Web Development. I hope to venture much deeper into this ocean of never-ending innovation and opportunities.
 
