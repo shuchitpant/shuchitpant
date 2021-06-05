@@ -21,16 +21,9 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 ## Some Github stats:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchitpant&label=Profile Views&color=blue&style=plastic" alt="shuchitpant" /> </p>
-
-
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuchitpant&show_icons=true&theme=tokyonight&line_height=27" alt="Shuchit's github stats" />
  <br>
-
-
-
-
-
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuchitpant&theme=tokyonight&line_height=35" />
 
@@ -38,4 +31,4 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchitpant&layout=compact&theme=tokyonight&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchitpant&layout=compact&theme=tokyonight&count_private=true&line_height=35" />
