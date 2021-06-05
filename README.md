@@ -18,6 +18,8 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shuchit-pant-948a0b190/)
 - ⚡ Fun fact: I love playing Flamenco music and listening to Math rock
 
+## Some Github stats:
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchitpant&label=Profile Views&color=blue&style=plastic" alt="shuchitpant" /> </p>
 
 <a href="https://github.com/shuchitpant">
