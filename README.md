@@ -34,4 +34,4 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 </a>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchitpant&layout=compact&theme=react&count_private=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchitpant&layout=compact&theme=tokyonight&count_private=true" />
