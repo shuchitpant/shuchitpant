@@ -33,3 +33,5 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuchitpant&theme=tokyonight&line_height=35" />
 </a>
 </div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchitpant&layout=compact&theme=react&count_private=false" />
