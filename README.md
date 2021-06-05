@@ -29,4 +29,4 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchitpant&layout=compact&theme=tokyonight&count_private=true&width=35" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuchitpant&layout=compact&theme=tokyonight&count_private=true" />
