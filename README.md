@@ -23,17 +23,17 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchitpant&label=Profile Views&color=blue&style=plastic" alt="shuchitpant" /> </p>
 
 <a href="https://github.com/shuchitpant">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuchitpant&show_icons=true&theme=tokyonight&line_height=27" alt="Shuchit's github stats" />
  
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuchitpant&show_icons=true&theme=tokyonight&line_height=27" alt="Shuchit's github stats" />
+ <br>
 </a>
-<br>
-<div>
-</div>
+
+
 
 <div>
 <a href="https://github.com/shuchitpant">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuchitpant&theme=tokyonight&line_height=35" />
-</a>
+ </a>
 </div>
 
 <br>
