@@ -15,7 +15,7 @@ If you want to have a chat about my other ventures or any project ideas, feel fr
 - 👯 I love designing UI on Figma/Adobe XD, and also like working on Graphic design.
 - 🤔 I’m looking for help with Backend Technologies.
 - 💬 Ask me about the Frontend design and Code.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shuchit-pant-948a0b190/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shuchit-pant-948a0b190/) [Twitter](https://twitter.com/shuchitpant) [Instagram](https://www.instagram.com/lilpant_/)
 - 📫 Portfolio: [Website](https://shuchitpant.github.io/PersonalPortfolio/)
 - ⚡ Fun fact: I love playing Flamenco music and listening to Math rock
 
